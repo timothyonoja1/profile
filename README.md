@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @appdesignguru
+- 👋 Hi, I’m Timothy Onoja
 - 👀 I’m interested in wirting quality software programs
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on any web or mobile app project
